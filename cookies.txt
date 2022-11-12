@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.shankariasacademy.com	TRUE	/postalmaterial	FALSE	1999999999	ci_session	c9jlqgpg3lshb6tltqtgudg4mklokec9
+www.shankariasacademy.com	TRUE	/	FALSE	1999999999	PHPSESSID	mdh6p029sdu05hkqc7ktc2897d
+www.shankariasacademy.com	TRUE	/	FALSE	1999999999	cross-site-cookie	name
+www.shankariasacademy.com	TRUE	/	FALSE	1999999999	SameSite	None
+

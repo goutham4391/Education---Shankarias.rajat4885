@@ -1,0 +1,303 @@
+@media (min-width:820px) and (max-width:1024px)
+{
+  .acheiversimg .imag img
+  {
+    right: 31%;
+
+      top: 14px;
+  }
+}
+@media (max-width:768px)
+  {
+    /* .homepopup .modal-body h2
+    {
+        font-size: 18px;
+    } */
+    .homepopup 
+    {
+        height: 800PX;
+        overflow-y: scroll;
+       
+       
+   
+    }
+    .homepopup .newimg
+    {
+        background: none;
+
+    }
+    .homepopup .newimg hr 
+    {
+        border:none;
+    }
+    .contactForm input, .contactForm select
+    {
+        margin-bottom: 23px;
+    }
+    #items
+    {
+        top: 201px;
+    }
+    .modal-dialog
+    {
+        max-width:100%;
+    }
+    .bankingfees
+    {
+        padding-left:unset;
+    }
+   
+    .bankingcourseDetails ul
+    {
+        padding-left:0px;
+    }
+    .bankingfees .row div
+    {
+      margin-top:10px;   
+      font-size: 1.2rem;
+    }
+    .contact .shankarimg
+    {
+        background-image: none;
+    }					
+    .totaltext
+    {
+        margin-left:0px;
+    }
+    .contactallcenter
+    {
+        margin-bottom: 52px;
+        display: block;
+    }
+    .mfooter
+    {
+        position: relative;
+    }
+	.header h1
+	{
+		font-size: 1em;
+	}
+	.programblock .redc
+	{
+		font-size:  1em;
+	}
+	#btn
+	{
+		position: fixed;	
+
+	}
+	#box 
+	{
+		position: fixed;
+		height: 100%;
+	}
+	.programblock .arrowh
+	{
+		left: 38px;
+	}
+	.acheiversimg .imag
+	{
+		height: 203px;
+	}
+	
+	.media
+	{
+        
+            right: 0px;
+            /* margin-top: 3rem; */
+            border-radius: 25px;
+            height: 550px;
+       
+	}
+	.redcolor
+	{
+		background-color: none;
+	}
+	/* .headerTopbg */
+	/* { */
+		/* position: fixed; */
+		/* z-index: 154; */
+        /* width:100%; */
+	/* } */
+	/* .headerTopbg .domesticclass a  */
+	/* { */
+		/* padding: 5px; */
+	/* } */
+    .programblock .bluec  .banking
+    {
+        padding:0px 0px 0px 42px;
+    }
+    .programblock .bluec .banking h2
+    {
+        left: 0%;
+        top: 0.2em;
+        font-size: 21px;
+        padding-left: 95px;
+    
+    }
+    .slider-nav
+    {
+        display:none;
+    }
+    .media1 .media-inner h5
+    {
+        width:100%;
+    }
+    .media1
+    {
+        height:100%;
+        border-radius:0px;
+       
+
+    }
+    .slider-for
+    {
+        top: 8%;
+        position: relative;
+        left: 2%;
+    }
+    .logo
+    {
+    /* margin-top: 56%; */
+    position: relative;
+    width: 69%;
+    /* margin: 40% auto; */
+    /* text-align: center; */
+    left: 15%;
+    }
+    .menus img, .menus .mobilMenu
+    {
+        display: none;
+    }
+    .menus
+    {
+        margin:0px;
+    }
+    .abutton
+	{
+		
+	 padding-left:30px;
+	}
+    .dd
+	{
+		width:100% !important;
+		 background-color: red;
+		  transform: none;
+		 
+		left: 19px !important;
+	}
+    .description ul
+    {
+        padding: 0px 0px 0px 28px;
+    }
+        .dd:before {
+            content: "";
+            position: relative;
+            top: -39px;
+            border: 10px solid #343A40;
+            border-color: transparent transparent #d11313 transparent;
+            left: 98px;
+        }
+        .paybg .button2 a
+        {
+            color:#fff;
+            font-size: 25px;
+        
+        }
+        .courseDetails .tnpscfees .table td
+        {
+                font-size: 11px;
+                padding:13px 0px;
+        }
+            
+        .aboutContent 
+        {
+            padding: 10px;
+        }
+        .aboutContent ul
+        {
+            padding-left:20px;
+        }
+		 .upsc-cntr .centr-sb img {
+        width: 60%;
+    }
+	
+	
+	/* new */
+	.mobileheadertop .siamail
+	{
+		font-size: 9px;
+		color: #fff;
+	}
+	.mobileheadertop .siamail .mail
+	{
+		font-weight:500;
+	}
+	.mobileheadertop .siamail a
+	{
+		color:#fff;
+	}
+	.mobileheadertop ul li .navbar-brand
+	{
+		    margin-left: 10px;
+	}
+	.headerTopbg .siamail
+	{
+		
+		padding: 15px;
+	}
+	.mobileheadertop
+	{
+		
+
+		
+		 background-color:#fff;
+			
+	}
+	.fixed {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index:155;
+}
+	.has-search .form-control-feedback
+	{
+		    /* left:182px; */
+}
+	.gsc-control-cse {
+    padding: 0px; 
+}
+	.headerTopbg .siamail
+	{
+		
+		font-size: 12px;
+		padding: 5px;
+	}
+	.headerTopbg
+	{
+		background-color:#fff; 
+	}
+	.mobileheadertop .sociallink ul
+	{
+		padding:0px;
+	}
+	.mobileheadertop
+	{
+		background-color:#db1b0d;
+	}
+	
+	/* New footer */
+	
+	.margingremove
+		{
+			text-align:center;
+		}
+  }
+ 
+  @media (min-width: 1200px)
+  {
+    .container, .container-lg, .container-md
+      {
+          max-width:1280px;
+      }
+  }
